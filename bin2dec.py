@@ -3,7 +3,7 @@
 # Convierte un número binario a decimal.
 # El binario es un string e.g. "101"
 # ------------------------------------------------------
-def bin2dec(numero_binario):.
+def bin2dec(numero_binario):
     numero_decimal = 0
 
     j = len(numero_binario) - 1
